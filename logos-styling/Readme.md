@@ -1,7 +1,7 @@
 ###### Inconsistent sized logos... fixed!
 
 **Before:**
-<img src="https://github.com/Jtzuya/https://github.com/Jtzuya/css-styling-tricks/logos-styling/master/assets/before.png" width="350" height="auto"/>
+<img src="https://github.com/Jtzuya/https://github.com/Jtzuya/css-styling-tricks/logos-styling/master/assets/before.png" width="250" height="auto"/>
 
 <sup>As you can see from the above image. Some images doesn't have same background/height</sup>
 
@@ -20,7 +20,7 @@
 ```
 
 **After:**
-<img src="https://github.com/Jtzuya/https://github.com/Jtzuya/css-styling-tricks/logos-styling/master/assets/after.png" width="350" height="auto"/>
+<img src="https://github.com/Jtzuya/https://github.com/Jtzuya/css-styling-tricks/logos-styling/master/assets/after.png" width="250" height="auto"/>
 
 <sub>Use these combinations of css properties on your next project!</sub>
 
