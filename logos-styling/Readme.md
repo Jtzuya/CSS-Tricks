@@ -1,6 +1,7 @@
 ###### Inconsistent sized logos... fixed!
 
 **Before:**
+<br>
 <img src="https://github.com/Jtzuya/css-styling-tricks/blob/master/logos-styling/assets/before.png" width="250" height="auto"/>
 
 <sup>As you can see from the above image. Some images doesn't have same background/height</sup>
@@ -20,6 +21,7 @@
 ```
 
 **After:**
+<br>
 <img src="https://github.com/Jtzuya/css-styling-tricks/blob/master/logos-styling/assets/after.png" width="250" height="auto"/>
 
 <sub>Use these combinations of css properties on your next project!</sub>
@@ -28,6 +30,6 @@
 
 
 ### Uncommon CSS Properties crossbrowser support
-[Aspect Ratio](https://caniuse.com/?search=mix-blend-mode)
-[Mix Blend Mode](https://caniuse.com/?search=aspect-ratio)
-[Object Fit](https://caniuse.com/?search=object-fit)
+- [Aspect Ratio](https://caniuse.com/?search=mix-blend-mode)
+- [Mix Blend Mode](https://caniuse.com/?search=aspect-ratio)
+- [Object Fit](https://caniuse.com/?search=object-fit)
