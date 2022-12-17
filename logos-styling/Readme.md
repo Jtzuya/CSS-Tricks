@@ -29,7 +29,7 @@
 <sup>Credits to: [@Wesbos](https://www.youtube.com/@WesBos) and check out his youtube channel</sup>
 
 
-### Uncommon CSS Properties crossbrowser support
+### Uncommon CSS Properties cross-browser support
 - [Aspect Ratio](https://caniuse.com/?search=mix-blend-mode)
 - [Mix Blend Mode](https://caniuse.com/?search=aspect-ratio)
 - [Object Fit](https://caniuse.com/?search=object-fit)
